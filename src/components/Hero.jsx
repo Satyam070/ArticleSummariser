@@ -22,7 +22,7 @@ const Hero = () => {
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summarize, an open-source article summarizer
+        Simplify your reading with ARTSUMS, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries
       </h2>
     </header>
