@@ -109,7 +109,7 @@ You can deploy this app easily on:
 ## 🙌 Credits
 
 * Built by [@Satyam070](https://github.com/Satyam070)
-* Summary API by [Jina AI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
+* Summary API by [RapidApi AI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 * Firebase Auth + Tailwind UI inspired from [fireship.io](https://fireship.io/)
 
 ---
