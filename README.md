@@ -114,17 +114,4 @@ You can deploy this app easily on:
 
 ---
 
-## 📄 License
 
-MIT License
-
-```
-
----
-
-## ✅ Final Touch
-
-- Replace `og-image.png`, `home.png`, and `dashboard.png` with actual screenshots
-- Double-check your `.env` and Firebase config is ignored via `.gitignore`
-
----
